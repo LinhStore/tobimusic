@@ -3,8 +3,8 @@
 module.exports = {
   TOKEN: "",
   language: "en",
-  ownerID: ["1004206704994566164", ""], 
-  mongodbUri : "",
+  ownerID: ["1314788424695156739", ""], 
+  mongodbUri : "mongodb+srv://lehoanglinh3314:<db_password>@cluster0.cfca4.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
   setupFilePath: './commands/setup.json',
   commandsDir: './commands',  
   embedColor: "#1db954",
